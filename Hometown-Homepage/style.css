@@ -1,0 +1,87 @@
+.header{
+	font-size: 30px;
+	color: purple;
+	background-image: url("BG-image.webp");
+	background-position: 1000px 900px;
+	padding: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px 0 black;
+	background-attachment: fixed;	
+}
+
+body{
+	text-align: center;	
+}
+
+p{
+	font-family: Verdana;
+}
+
+h1, h2{
+	font-style: italic;
+	padding: 10px;
+}
+
+#fun{
+	text-decoration: underline;
+	padding: 10px;
+}
+
+img{
+	width: 250px;
+	height: 250px;
+	box-shadow: 10px 10px 15px 10px #ccdd;
+	border-radius: 5px;
+}
+
+.activities{
+	display: flex;	
+}
+
+.email{
+	padding: 20px;
+}
+
+#wine{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	opacity: 0.8;
+}
+
+#wine:hover{
+	opacity: 1;
+}
+
+#walk{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+    opacity: 0.8;	
+}
+
+
+#walk:hover{
+	opacity: 1;
+}
+	
+#bike{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	opacity: 0.8;
+}
+
+#bike:hover{
+	opacity: 1;
+}
+
+.footer{
+	height: 20px;
+	background-color: purple;
+	border-top: 1px solid #333;
+	padding: 20px;
+}
+
+	

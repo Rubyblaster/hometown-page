@@ -3,6 +3,7 @@
 	color: purple;
 	background-image: url("BG-image.webp");
 	background-position: 1000px 900px;
+	max-width: 100%;
 	padding: 40px;
 	margin-left: auto;
 	margin-right: auto;
